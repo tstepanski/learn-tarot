@@ -1,0 +1,33 @@
+{
+  "author": {
+    "name": "Timothy M. Stepanski",
+    "email": "timothy@timothystepanski.com",
+    "url": "timothystepanski.com"
+  },
+  "devDependencies": {
+    "@babel/core": "latest",
+    "@babel/preset-env": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/uuid": "latest",
+    "@types/webpack": "latest",
+    "babel-loader": "latest",
+    "html-webpack-plugin": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "ts-node": "latest",
+    "ts-loader": "latest",
+    "typescript": "latest",
+    "uuid": "latest",
+    "webpack": "lastest",
+    "webpack-cli": "latest"
+  },
+  "license": "GPL",
+  "main": "index.js",
+  "name": "learn-tarot",
+  "scripts": {
+    "build": "webpack"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,263 @@
+{
+  "Simple": {
+    "Numeric": [
+      {
+        "Question": "How many cards are in a deck",
+        "Answer": 78
+      },
+      {
+        "Question": "How many court cards are in a deck",
+        "Answer": 16
+      },
+      {
+        "Question": "How many major arcana cards are in a deck",
+        "Answer": 22
+      },
+      {
+        "Question": "How many minor arcana cards are in a deck",
+        "Answer": 56
+      },
+      {
+        "Question": "How many pips are in a deck",
+        "Answer": 40
+      }
+    ],
+    "MultipleChoice": [
+      {
+        "Question": "What is the name of the collection of cards named page, knight, queen, and king, present in each of the 4 suits",
+        "Answer": "Court",
+        "IncorrectChoices": [
+          "House",
+          "Castle",
+          "Congress",
+          "High"
+        ]
+      },
+      {
+        "Question": "What is the name of the collection of cards numbered ace through ten, present in each of the 4 suits",
+        "Answer": "Pips",
+        "IncorrectChoices": [
+          "Pops",
+          "Parts",
+          "Lesser",
+          "Low"
+        ]
+      },
+      {
+        "Question": "What is the closest meaning of Arcana",
+        "Answer": "Secrets",
+        "IncorrectChoices": [
+          "Mysteries",
+          "Illusions",
+          "Distractions",
+          "Magic"
+        ]
+      },
+      {
+        "Question": "What is the closest meaning of Arcana",
+        "Answer": "Secret",
+        "IncorrectChoices": [
+          "Mystery",
+          "Illusion",
+          "Distraction",
+          "Magic"
+        ]
+      },
+      {
+        "Question": "What is the name of the person asking the question",
+        "Answer": "Querent",
+        "IncorrectChoices": [
+          "Quarrant",
+          "Questioner",
+          "Interrogator",
+          "Querier"
+        ]
+      },
+      {
+        "Question": "What is the name of the person performing the reading",
+        "Answer": "Reader",
+        "IncorrectChoices": [
+          "Teller",
+          "Witch",
+          "Seer",
+          "Warlock"
+        ]
+      },
+      {
+        "Question": "What is the name of a card that appears upside down to the person performing the reading",
+        "Answer": "Reversal or reversed",
+        "IncorrectChoices": [
+          "Inversal or inverse",
+          "Flipped or upside-down",
+          "Wrong or upsetting",
+          "Cursed or damned"
+        ]
+      },
+      {
+        "Question": "What is the name of a diagram of card layout and description of position significance and purpose",
+        "Answer": "Spread",
+        "IncorrectChoices": [
+          "Chart",
+          "See",
+          "Alignment",
+          "Call"
+        ]
+      }
+    ]
+  },
+  "CardSpecific": {
+    "Major": [
+      {
+        "Number": 0,
+        "Name": "The Fool",
+        "Keywords": [
+          "Beginnings",
+          "Innocence",
+          "Freedom",
+          "Spontaneity",
+          "Adventure",
+          "Youth",
+          "Idealism",
+          "Faith",
+          "Purity",
+          "Fearlessness",
+          "Carelessness",
+          "Eccentricity",
+          "Apparent foolishness"
+        ],
+        "Reversed": [
+          "Folly",
+          "Foolishness",
+          "Carelessness",
+          "Stupidity",
+          "Negligence",
+          "Distraction",
+          "Naivety",
+          "Recklessness",
+          "Risk-taking"
+        ],
+        "Astrological": "Uranus",
+        "Element": "Air",
+        "RiderWaiteSmithSymbolism": [
+          {
+            "Component": "White dog",
+            "Associations": [
+              "Inner voice",
+              "Distractions"
+            ]
+          },
+          {
+            "Component": "Sun",
+            "Associations": [
+              "Joy",
+              "Optimism"
+            ]
+          },
+          {
+            "Component": "Stick with bag",
+            "Associations": [
+              "Lessons from previous lives",
+              "Innate abilities"
+            ]
+          },
+          {
+            "Component": "Red feather in cap",
+            "Associations": [
+              "Passion",
+              "Heart"
+            ]
+          },
+          {
+            "Component": "White rose",
+            "Associations": [
+              "Purity"
+            ]
+          },
+          {
+            "Component": "Cliff",
+            "Associations": [
+              "Leap of faith"
+            ]
+          },
+          {
+            "Component": "Brightly colored clothing",
+            "Associations": [
+              "Unique",
+              "Careless",
+              "Eccentric nature"
+            ]
+          }
+        ]
+      },
+      {
+        "Number": 0,
+        "Name": "The Magician",
+        "Keywords": [
+          "Will",
+          "Talent",
+          "Skill",
+          "Creativity",
+          "Manifestation",
+          "Communication",
+          "Magic",
+          "Action",
+          "Awareness",
+          "Power",
+          "Resourcefulness",
+          "Concentration",
+          "Eloquence"
+        ],
+        "Reversed": [
+          "Trickery",
+          "Manipulation",
+          "Deceit",
+          "Con",
+          "Liar",
+          "Misuse of gifts"
+        ],
+        "Astrological": "Mercury",
+        "Element": "Air",
+        "RiderWaiteSmithSymbolism": [
+          {
+            "Component": "Red roses",
+            "Associations": [
+              "Passion"
+            ]
+          },
+          {
+            "Component": "White lilies",
+            "Associations": [
+              "Purity"
+            ]
+          },
+          {
+            "Component": "Lemniscate",
+            "Associations": [
+              "Infinite flow of energy"
+            ]
+          },
+          {
+            "Component": "Ouroboros",
+            "Associations": [
+              "Eternity",
+              "Transformation"
+            ]
+          },
+          {
+            "Component": "Red and white clothing",
+            "Associations": [
+              "Passion",
+              "Purity"
+            ]
+          },
+          {
+            "Component": "Wand in right hand",
+            "Associations": [
+              "Will"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
